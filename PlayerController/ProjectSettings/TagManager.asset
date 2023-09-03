@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Bounds
+  - Enemy
+  - BackgroundColor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundColor
+    uniqueID: 3692139813
+    locked: 0
+  - name: FarawayBackground -3
+    uniqueID: 582962049
+    locked: 0
+  - name: FarawayBackground -2
+    uniqueID: 3877117749
+    locked: 0
+  - name: FarawayBackground -1
+    uniqueID: 67938267
+    locked: 0
+  - name: Background -2
+    uniqueID: 3488266213
+    locked: 0
+  - name: Background -1
+    uniqueID: 680595717
+    locked: 0
+  - name: Background
+    uniqueID: 542790525
+    locked: 0
+  - name: BackgroundGrass
+    uniqueID: 2680518745
+    locked: 0
+  - name: Platform
+    uniqueID: 1845017351
+    locked: 0
+  - name: Grass
+    uniqueID: 2601727385
+    locked: 0
+  - name: Enemy
+    uniqueID: 3307324163
+    locked: 0
+  - name: Light
+    uniqueID: 1958059791
+    locked: 0
+  - name: Foregrond_half
+    uniqueID: 1605884053
+    locked: 0
+  - name: Player
+    uniqueID: 1341791935
+    locked: 0
+  - name: Foreground1
+    uniqueID: 186654447
+    locked: 0
