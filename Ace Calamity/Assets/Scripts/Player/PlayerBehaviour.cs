@@ -21,8 +21,10 @@ public class PlayerBehaviour : MonoBehaviour
         healthBar.SetHealth(GameManager.gameManager.playerHealth.Health);
     }
 
-    private void PlayerHealAmount(int healing)
+    public void PlayerHealAmount(int healAmount)
     {
-        GameManager.gameManager.playerHealth.HealUnit(healing);
+        GameManager.gameManager.playerHealth.HealUnit(healAmount);
+        Debug.Log(GameManager.gameManager.playerHealth.Health);
+        healthBar.SetHealth(GameManager.gameManager.playerHealth.Health);
     }
 }

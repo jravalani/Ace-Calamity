@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemies
   - Ground
+  - Heal
   layers:
   - Default
   - TransparentFX
