@@ -7,6 +7,9 @@ TagManager:
   - Enemies
   - Ground
   - Heal
+  - Confiner1
+  - Confiner2
+  - TransitionZone
   layers:
   - Default
   - TransparentFX
