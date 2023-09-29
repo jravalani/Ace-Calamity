@@ -27,7 +27,7 @@ public class BaseEnemy : MonoBehaviour
         }
     }
 
-    protected virtual void Die()
+    public virtual void Die()
     {
         // play death animation
         // destory gameobject

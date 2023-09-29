@@ -40,7 +40,7 @@ public class ToFroEnemy : BaseEnemy
         // For example, play a hit animation, play a sound, etc.
     }
 
-    protected override void Die()
+    public override void Die()
     {
         // Add any specific behavior for when this enemy is defeated
         // For example, play a death animation, play a sound, drop items, etc.
